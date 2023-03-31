@@ -1,4 +1,4 @@
-# RubyProjectCreationScript
+# Ruby Project Creation Script
 This is a simple shell script that automates the process of creating a new Ruby project and initializing Git repository.
 
 
